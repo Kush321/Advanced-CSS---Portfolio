@@ -1,0 +1,50 @@
+    h1{
+        color:green;
+        text-align: center;
+    }
+    h2{
+        color:darkgoldenrod;
+        text-align: center;
+    }
+    h3{
+        color:darkred;
+        text-align: center;
+    }
+    p{
+        color: purple;
+        font-size: 18px;
+    }
+a:hover{
+    background-color: rebeccapurple;
+    color:red;
+}
+a:active{
+    color:darkgoldenrod;
+}
+.header{
+    background-color: yellow;
+
+    padding:20px;
+}
+.examples{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+a{
+    text-align: center;
+    margin-top:20px;
+    margin-bottom: 40px;
+    color:darkorange;
+    float:right;
+}
+.item{
+    text-align: center;
+    margin:20px;
+    width:310px;
+    opacity:0.7;
+}
